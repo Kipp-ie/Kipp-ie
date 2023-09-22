@@ -1,4 +1,4 @@
-##Hello i'm Kippie!
+## Hello i'm Kippie!
 
 - 🔭 I’m currently working on Some cool Minecraft server called NebulaMC!
 - 🌱 I’m currently learning Java (JDA & Bukkit)
