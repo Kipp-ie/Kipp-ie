@@ -12,4 +12,4 @@ Java, Python and a lil' bit Arduino
 
 My dm's on Discord are always open :). Contact me @kippenboutske on Discord.
 
-[![Kipp-ie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kipp-ie&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Kipp-ie's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kipp-ie&show_icons=true&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
